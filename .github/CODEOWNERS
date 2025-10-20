@@ -1,0 +1,7 @@
+# CODEOWNERS - Default Reviewers for RP Employee Management
+# 
+# When "Require review from Code Owners" is enabled in Rulesets,
+# these users will be automatically added as reviewers for PRs
+
+# Default reviewers for ALL changes
+@rodel-reyes-rp
